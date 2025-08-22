@@ -3,8 +3,9 @@
 127.0.0.1  localhost
 ::1  localhost
 
-gckload.com
-a.adtng.com
+0.0.0.0 gckload.com
+0.0.0.0 a.adtng.com
+0.0.0.0 sin.creativecdn.com
 
 
 # [criteo.com]
@@ -150,3 +151,4 @@ a.adtng.com
 0.0.0.0 pix.us.criteo.net
 0.0.0.0 va.us.criteo.net
 0.0.0.0 csm.va.us.criteo.net
+
